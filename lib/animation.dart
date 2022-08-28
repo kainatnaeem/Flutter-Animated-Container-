@@ -2,9 +2,6 @@ import 'package:flutter/material.dart';
 
 
 class AnimatedContainerByKtech extends StatefulWidget {
-
-  
-
   @override
   State<AnimatedContainerByKtech> createState() => _AnimatedContainerByKtechState();
 }
