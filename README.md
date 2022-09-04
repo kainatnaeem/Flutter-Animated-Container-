@@ -1,4 +1,4 @@
-# Flutter Animated Container by Ktech
+# Flutter Animated Container
 
 [flutter animatec ontainer by Ktech.webm](https://user-images.githubusercontent.com/54583829/187097071-d8a6a64d-72b9-42c2-bdea-4d97145fa782.webm)
 
